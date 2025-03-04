@@ -1,0 +1,18 @@
+[
+    {
+        "ISBN": "978-3-16-148410-0",
+        "Title": "The Great Gatsby",
+        "Author": "F. Scott Fitzgerald",
+        "Genre": "Fiction",
+        "Price": 10.99,
+        "Quantity": 5
+    },
+    {
+        "ISBN": "978-1-234-56789-7",
+        "Title": "1984",
+        "Author": "George Orwell",
+        "Genre": "Dystopian",
+        "Price": 9.99,
+        "Quantity": 10
+    }
+]
